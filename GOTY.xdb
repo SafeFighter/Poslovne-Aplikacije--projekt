@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xdb="http://www.borland.com/schemas/delphi/10.0/XMLDataBinding">
+  <xs:element name="GamesOfTheYear" type="GamesOfTheYearType"/>
+  <xs:complexType name="GamesOfTheYearType"><xs:annotation>
+      <xs:appinfo xdb:docElement="GamesOfTheYear"/>
+    </xs:annotation>
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="Game" type="GameType" maxOccurs="unbounded"/>
+    </sequence>
+  </xs:complexType>
+  <xs:complexType name="GameType">
+    <sequence xmlns="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="Title" type="xs:string"/>
+      <xs:element name="Developer" type="xs:string"/>
+      <xs:element name="Year" type="xs:integer"/>
+    </sequence>
+  </xs:complexType>
+</xs:schema>

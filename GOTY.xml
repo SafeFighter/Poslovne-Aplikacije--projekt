@@ -1,0 +1,52 @@
+<GamesOfTheYear>
+	<Game>
+		<Title>Baldur's Gate 3</Title>
+		<Developer>Larian Studios</Developer>
+		<Year>2023</Year>
+	</Game>
+	<Game>
+		<Title>Elden Ring</Title>
+		<Developer>FromSoftware</Developer>
+		<Year>2022</Year>
+	</Game>
+	<Game>
+		<Title>It Takes Two</Title>
+		<Developer>Hazelight Studios</Developer>
+		<Year>2021</Year>
+	</Game>
+	<Game>
+		<Title>The Last of Us Part II</Title>
+		<Developer>Naughty Dog</Developer>
+		<Year>2020</Year>
+	</Game>
+	<Game>
+		<Title>Sekiro: Shadows Die Twice</Title>
+		<Developer>FromSoftware</Developer>
+		<Year>2019</Year>
+	</Game>
+	<Game>
+		<Title>God of War</Title>
+		<Developer>SIE Santa Monica Studio</Developer>
+		<Year>2018</Year>
+	</Game>
+	<Game>
+		<Title>The Legend of Zelda: Breath of the Wild</Title>
+		<Developer>Nintendo</Developer>
+		<Year>2017</Year>
+	</Game>
+	<Game>
+		<Title>Overwatch</Title>
+		<Developer>Blizzard Entertainment</Developer>
+		<Year>2016</Year>
+	</Game>
+	<Game>
+		<Title>The Witcher 3: Wild Hunt</Title>
+		<Developer>CD Projekt Red</Developer>
+		<Year>2015</Year>
+	</Game>
+	<Game>
+		<Title>Dragon Age: Inquisition</Title>
+		<Developer>BioWare</Developer>
+		<Year>2014</Year>
+	</Game>
+</GamesOfTheYear>

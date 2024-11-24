@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.336,C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.cpp=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\Global.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.644,C:\Users\matij\OneDrive\Radna površina\PoslovneA\Project1.cbproj=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.466,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.h=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\Global.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.791,=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit7.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.576,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\CountryInfoService.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.259,C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\matij\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\matij\OneDrive\Radna površina\PoslovneA\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=C:\Users\matij\OneDrive\Radna površina\PoslovneA – kopija – kopija\GOTY.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+    <File Path="Unit7.cpp"/>
+    <File Path="Unit7.cpp"/>
+    <File Path="Unit7.dfm"/>
+    <File Path="Unit7.h"/>
+    <File Path="CountryInfoService.cpp"/>
+    <File Path="CountryInfoService.cpp"/>
+    <File Path="CountryInfoService.h"/>
+    <File Path="GOTY.cpp"/>
+    <File Path="GOTY.cpp"/>
+    <File Path="GOTY.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
